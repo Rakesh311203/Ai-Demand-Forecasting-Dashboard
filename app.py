@@ -5,8 +5,8 @@ import plotly.graph_objects as go
 import google.generativeai as genai
 
 
-API_KEY = 'AIzaSyDh8yhk3Uk8i3FDQ2O_bzQfc8h-kwHsfg8' 
-genai.configure(api_key="AIzaSyDh8yhk3Uk8i3FDQ2O_bzQfc8h-kwHsfg8")
+API_KEY = 'API_KEY GOES HERE' 
+genai.configure(api_key="API_KEY")
 
 st.set_page_config(page_title='AI Demand Forecast', layout='wide')
 
