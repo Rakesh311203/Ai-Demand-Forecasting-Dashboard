@@ -30,23 +30,23 @@ This project is a high-performance forecasting tool designed to automate invento
 📦 Installation & Setup
 To run this project locally, follow these steps:
 
-Clone the repository:
-Bash
+Clone the repository: <br>
+Bash <br> 
 <code>git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git</code> <br>
 <code>cd Ai-Demand-Forecasting-Dashboard</code>
 
-Install dependencies:
-Bash
+Install dependencies: <br>
+Bash <br> 
 <code>pip install pandas prophet streamlit plotly google-generativeai</code>
 
-Set up your API Key:
+Set up your API Key: <br>
 * Obtain a Gemini API key from Google AI Studio.
 * Create a .env file or set your environment variable:
-
-Bash
+Bash <br>
 <code>export GEMINI_API_KEY='your_key_here'</code>
-Run the App:
-Bash
+
+Run the App: <br> 
+Bash <br> 
 <code>streamlit run app.py</code>
 
 
