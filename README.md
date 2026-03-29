@@ -1,4 +1,4 @@
-AI-Driven Demand Forecasting Dashboard
+<h1> AI-Driven Demand Forecasting Dashboard </h1>
 📊 Replicating SAP IBP/APO Logic with Machine Learning
 This project is a high-performance forecasting tool designed to automate inventory replenishment decisions. It combines historical sales data analysis with Meta Prophet for time-series forecasting and Google Gemini 3.1 for generating human-readable procurement briefs.
 
