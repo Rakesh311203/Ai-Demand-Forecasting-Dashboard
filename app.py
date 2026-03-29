@@ -25,7 +25,7 @@ safety_pct = st.sidebar.slider('Safety Stock %', 10, 50, 20)
 @st.cache_data # This prevents re-loading the CSV every time you click a button
 def load_data():
     # Ensure train.csv is in a folder named 'data' relative to this script
-    df = pd.read_csv('data/train.csv')
+   df = pd.read_csv('Ai-Demand-Forecasting/train.csv')
     df['date'] = pd.to_datetime(df['date'])
     return df
 
