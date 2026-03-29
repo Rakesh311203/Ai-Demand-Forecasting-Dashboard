@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from prophet import Prophet
+from prophet import prophet
 import plotly.graph_objects as go
 import google.generativeai as genai
 
