@@ -1,15 +1,16 @@
 <h1> AI-Driven Demand Forecasting Dashboard </h1>
-📊 Replicating SAP IBP/APO Logic with Machine Learning
+
+<p1> 📊 Replicating SAP IBP/APO Logic with Machine Learning
 This project is a high-performance forecasting tool designed to automate inventory replenishment decisions. It combines historical sales data analysis with Meta Prophet for time-series forecasting and Google Gemini 3.1 for generating human-readable procurement briefs.
 
 🚀 Features
-Time-Series Forecasting: Uses Prophet to handle complex seasonality, holidays, and growth trends.
+* Time-Series Forecasting: Uses Prophet to handle complex seasonality, holidays, and growth trends.
 
-Dynamic Inventory Logic: Calculates Safety Stock and Reorder Points (ROP) based on real-time user inputs (Lead Time & Buffer %).
+* Dynamic Inventory Logic: Calculates Safety Stock and Reorder Points (ROP) based on real-time user inputs (Lead Time & Buffer %).
 
-AI Planning Narratives: Integrates Gemini 3.1 Flash Lite to translate raw statistical data into actionable executive summaries.
+* AI Planning Narratives: Integrates Gemini 3.1 Flash Lite to translate raw statistical data into actionable executive summaries.
 
-Interactive Visualization: Built with Plotly to allow planners to hover, zoom, and analyze specific sales periods.
+* Interactive Visualization: Built with Plotly to allow planners to hover, zoom, and analyze specific sales periods. </p1>
 
 🛠️ Tech Stack
 Language: Python 3.12
