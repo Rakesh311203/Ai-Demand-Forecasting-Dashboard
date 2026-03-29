@@ -13,44 +13,41 @@ This project is a high-performance forecasting tool designed to automate invento
 * Interactive Visualization: Built with Plotly to allow planners to hover, zoom, and analyze specific sales periods. </p1>
 
 🛠️ Tech Stack
-Language: Python 3.12
+* Language: Python 3.12
 
-Forecasting: Meta Prophet
+* Forecasting: Meta Prophet
 
-LLM Integration: Google Generative AI (Gemini 3.1 Flash Lite)
+* LLM Integration: Gemini 3.1 Flash Lite
 
-Data Manipulation: Pandas
+* Data Manipulation: Pandas
 
-Dashboard Framework: Streamlit
+* Dashboard Framework: Streamlit
 
-Charts: Plotly
+* Charts: Plotly
 
-Version Control: GitHub
+* Version Control: GitHub
 
 📦 Installation & Setup
 To run this project locally, follow these steps:
 
 Clone the repository:
-> Bash
+Bash
 <code>git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git</code> <br>
 <code>cd Ai-Demand-Forecasting-Dashboard</code>
 
 Install dependencies:
-> Bash
+Bash
 <code>pip install pandas prophet streamlit plotly google-generativeai</code>
 
 Set up your API Key:
-
-Obtain a Gemini API key from Google AI Studio.
-
-Create a .env file or set your environment variable:
+* Obtain a Gemini API key from Google AI Studio.
+* Create a .env file or set your environment variable:
 
 Bash
-export GEMINI_API_KEY='your_key_here'
+<code>export GEMINI_API_KEY='your_key_here'</code>
 Run the App:
-
 Bash
-streamlit run app.py
+<code>streamlit run app.py</code>
 
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_ejpjtaejpjtaejpj" src="https://github.com/user-attachments/assets/f3a007ae-362c-447e-a99d-69436dba5a36" />
