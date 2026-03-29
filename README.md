@@ -34,7 +34,7 @@ Clone the repository:
 
 Bash
 <code>git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git</code>
-<code>cd Ai-Demand-Forecasting-Dashboard</code>
+\n <code>cd Ai-Demand-Forecasting-Dashboard</code>
 Install dependencies:
 
 Bash
