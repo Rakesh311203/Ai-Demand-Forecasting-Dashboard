@@ -33,8 +33,8 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 Bash
-git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git
-cd Ai-Demand-Forecasting-Dashboard
+> git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git
+> cd Ai-Demand-Forecasting-Dashboard
 Install dependencies:
 
 Bash
