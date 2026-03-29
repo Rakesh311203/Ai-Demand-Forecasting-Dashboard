@@ -31,14 +31,14 @@ Version Control: GitHub
 To run this project locally, follow these steps:
 
 Clone the repository:
-
-Bash
+> Bash
 <code>git clone https://github.com/Rakesh311203/Ai-Demand-Forecasting-Dashboard.git</code>
-\n <code>cd Ai-Demand-Forecasting-Dashboard</code>
-Install dependencies:
+<code>cd Ai-Demand-Forecasting-Dashboard</code>
 
-Bash
-pip install pandas prophet streamlit plotly google-generativeai
+Install dependencies:
+> Bash
+<code>pip install pandas prophet streamlit plotly google-generativeai</code>
+
 Set up your API Key:
 
 Obtain a Gemini API key from Google AI Studio.
