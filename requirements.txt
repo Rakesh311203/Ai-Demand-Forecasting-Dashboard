@@ -4,3 +4,4 @@ plotly
 streamlit
 google-generativeai
 altair==4.2.2
+imghdr
